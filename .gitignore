@@ -16,3 +16,9 @@
 *.exe
 *.out
 *.app
+
+# Code::Block
+Bin
+Obj
+*.depends
+*.cbp
