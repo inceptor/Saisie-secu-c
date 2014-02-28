@@ -18,7 +18,8 @@
 *.app
 
 # Code::Block
-Bin
-Obj
-*.depends
+bin
+obj
+*.depend
+*.layout
 *.cbp
