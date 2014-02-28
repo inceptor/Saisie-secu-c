@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1365859304 source:c:\users\admin\desktop\projet codeblock\intverif\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1365896134 source:c:\users\mehdi\desktop\projet codeblock\intverif\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1365986146 source:c:\users\mehdi\desktop\projet codeblock\intverif\saisiesecu.c
+	<stdio.h>
+	<stdlib.h>
+

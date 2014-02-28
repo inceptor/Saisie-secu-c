@@ -1,0 +1,27 @@
+ ---------------------------------------------------------------
+|			FONCTION IMPORTANTE			|
+|---------------------------------------------------------------|
+|------>int parseInt(const char string[],const int posNb);	|
+|								|
+|But : 	analise la chaine et retourne le int selectionner	|
+|	( posNb ). 						|
+|	Exemple : string[]="a23cv12z"; parseInt(string,2);	|
+|		parseInt retournera : 12			|
+|								|
+|------>int typeVar(const char string[]);			|
+|								|
+|But : 	analise la chaine et le type de la variable sous forme	|
+|	d'un int.						|
+|	Int signed -1	| Int unsigned 1	|Char 2		|
+|	alphaNum 3						|
+|								|
+|------>int charConvertInt(const char string[]);		|
+|								|
+|But :	Convertis un char en un int. retourne -1 si il y a eu	|
+|	une erreur.						|
+|								|
+|------>int scanInt();						|
+|								|
+|But : 	Fait une saisie sécurisé d'un int.Retourne -1 si il y	|
+|	a eu une erreur.					|
+ ---------------------------------------------------------------
